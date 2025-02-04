@@ -1,3 +1,7 @@
+![Capa do Projeto](Challenge-Amigo-Secreto-Alura
+/Amigo secreto.jpg
+)
+
 <h1>Challenge Amigo Secreto - Alura</h1> 
 
 ## 📌 Descrição
