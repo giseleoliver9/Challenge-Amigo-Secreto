@@ -1,5 +1,8 @@
 ![Capa do Projeto](https://github.com/giseleoliver9/Challenge-Amigo-Secreto-Alura/blob/main/Amigo%20secreto.jpg?raw=true)
 
+## 🌐 Acesse o Projeto Online  
+🔗 [Veja o projeto no GitHub Pages](https://giseleoliver9.github.io/Challenge-Amigo-Secreto-Alura/)
+
 <h1>Challenge Amigo Secreto - Alura</h1> 
 
 ## 📌 Descrição
