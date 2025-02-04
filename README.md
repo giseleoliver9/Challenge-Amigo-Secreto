@@ -1,4 +1,4 @@
-![Descrição da Imagem](Amigosecreto.jpg)
+![Capa do Projeto]([https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/assets/capa.png](https://github.com/giseleoliver9/Challenge-Amigo-Secreto-Alura/blob/main/Amigo%20secreto.jpg))
 
 <h1>Challenge Amigo Secreto - Alura</h1> 
 
