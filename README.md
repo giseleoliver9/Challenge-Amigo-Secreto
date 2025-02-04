@@ -1,6 +1,4 @@
-![Capa do Projeto](Challenge-Amigo-Secreto-Alura
-/Amigo secreto.jpg
-)
+![Descrição da Imagem](Amigosecreto.jpg)
 
 <h1>Challenge Amigo Secreto - Alura</h1> 
 
